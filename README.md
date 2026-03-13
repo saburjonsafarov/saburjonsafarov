@@ -37,13 +37,13 @@ Currently working on **fintech mobile applications** and exploring **Kotlin Mult
 
 ## 📊 GitHub Stats
 
-![Saburjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Saburjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=saburjonsafarov&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saburjonsafarov&layout=compact&theme=tokyonight)
 
 ---
 
