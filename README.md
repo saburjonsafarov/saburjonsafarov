@@ -35,18 +35,6 @@ Currently working on **fintech mobile applications** and exploring **Kotlin Mult
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saburjonsafarov&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saburjonsafarov&layout=compact&theme=tokyonight&langs_count=8)
-
----
-
 ## 🚀 Current Focus
 
 - Deep diving into **Kotlin Multiplatform**
