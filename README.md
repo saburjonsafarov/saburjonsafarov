@@ -85,5 +85,5 @@ I enjoy turning **complex problems into elegant Kotlin solutions**.
 
 ## 📄 CV Preview
 
-[![CV Preview 🇬🇧](https://img.shields.io/badge/Open-CV-blue)](./cv_en.pdf)
-[![CV Preview 🇷🇺](https://img.shields.io/badge/Open-CV-blue)](./cv_ru.pdf)
+[![CV Preview](https://img.shields.io/badge/Open-CV-blue)🇬🇧](./cv_en.pdf)
+[![CV Preview](https://img.shields.io/badge/Open-CV-blue)🇷🇺](./cv_ru.pdf)
