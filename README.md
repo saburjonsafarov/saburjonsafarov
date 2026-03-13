@@ -83,7 +83,7 @@ I enjoy turning **complex problems into elegant Kotlin solutions**.
 
 [![Download CV RU](https://img.shields.io/badge/Download-CV%20Russian-green?style=for-the-badge)](./cv/Saburjon_Safarov_CV_RU.pdf)
 
-## 📄 CV Preview
+## 📄 Resume
 
-[![CV Preview](https://img.shields.io/badge/Open-CV-blue)🇬🇧](./cv_en.pdf)
-[![CV Preview](https://img.shields.io/badge/Open-CV-blue)🇷🇺](./cv_ru.pdf)
+[![🇬🇧 English CV](https://img.shields.io/badge/🇬🇧%20English-CV-blue?style=for-the-badge)](./cv_en.pdf)
+[![🇷🇺 Russian CV](https://img.shields.io/badge/🇷🇺%20Русский-CV-red?style=for-the-badge)](./cv_ru
