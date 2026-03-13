@@ -77,12 +77,6 @@ Currently working on **fintech mobile applications** and exploring **Kotlin Mult
 
 I enjoy turning **complex problems into elegant Kotlin solutions**.
 
-## 📄 My Resume
-
-[![Download CV EN](https://img.shields.io/badge/Download-CV%20English-blue?style=for-the-badge)](./cv/Saburjon_Safarov_CV_EN.pdf)
-
-[![Download CV RU](https://img.shields.io/badge/Download-CV%20Russian-green?style=for-the-badge)](./cv/Saburjon_Safarov_CV_RU.pdf)
-
 ## 📄 Resume / CV
 
 🇬🇧 **English Version**
