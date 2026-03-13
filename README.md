@@ -91,4 +91,4 @@ I enjoy turning **complex problems into elegant Kotlin solutions**.
 
 🇷🇺 **Русская версия**
 
-[![Скачать CV](https://img.shields.io/badge/Download-CV%20Russian-DC143C?style=for-the-badge&logo=readme&logoColor=white)](./cv_ru.pdf
+[![Скачать CV](https://img.shields.io/badge/Download-CV%20Russian-DC143C?style=for-the-badge&logo=readme&logoColor=white)](./cv_ru.pdf)
