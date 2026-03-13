@@ -56,8 +56,8 @@ Currently working on **fintech mobile applications** and exploring **Kotlin Mult
 
 ## 📫 Contact Me
 
-📧 Email: your_email_here  
-💼 LinkedIn: your_linkedin_here  
+📧 Email: safarovsaburjon2002@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/saburjon-safarov-0a0997270  
 
 ---
 
